@@ -3,7 +3,7 @@ export default function Header() {
     return (
       <header className="ai-header">
         <div className="header-content">
-          <img src="public/logo.png" alt="AI Chef Logo" className="logo" />
+          <img src="/logo.png" alt="AI Chef Logo" className="logo" />
           <div className="header-text">
             <h1>AI CHEF</h1>
             <p>Your personal recipe assistant</p>
